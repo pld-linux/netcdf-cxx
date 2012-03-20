@@ -1,0 +1,14 @@
+--- netcdf-4.0.1/man4/netcdf-cxx.texi.orig	2006-08-17 23:29:23.000000000 +0200
++++ netcdf-4.0.1/man4/netcdf-cxx.texi	2008-11-01 12:42:09.140730777 +0100
+@@ -16,9 +16,9 @@
+ @include defines.texi
+ 
+ @ifinfo
+-@dircategory netCDF scientific data format
++@dircategory Libraries:
+ @direntry
+-* netcdf-cxx: (netcdf-cxx).         @value{cxx-man}
++* netcdf-cxx: (netcdf-cxx).		@value{cxx-man}
+ @end direntry
+ @end ifinfo
+ 
