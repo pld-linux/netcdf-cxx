@@ -7,7 +7,7 @@ Summary:	NetCDF C++ library (old API)
 Summary(pl.UTF-8):	Biblioteka NetCDF dla języka C++ (stare API)
 Name:		netcdf-cxx
 Version:	4.2
-Release:	3
+Release:	4
 License:	BSD-like
 Group:		Libraries
 Source0:	ftp://ftp.unidata.ucar.edu/pub/netcdf/%{name}-%{version}.tar.gz
